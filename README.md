@@ -13,7 +13,9 @@ In spite of this, with the abundance of options, choosing the perfect honeymoon 
 
 ## Features
 Comprehensive Insights: Integrated diverse datasets to provide detailed information on geographic location, weather, activities, user reviews, and cost of living.
+
 Enhanced User Experience: The interactive dashboard allows real-time, customizable filters and visualizations, simplifying the decision-making process for couples.
+
 Stress-Free Planning: Aims to transform honeymoon planning into an enjoyable, well-informed, and stress-free experience.
 
 ## Conclusion
